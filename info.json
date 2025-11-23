@@ -1,0 +1,11 @@
+{
+  "name": "MTX Token",
+  "symbol": "MTX",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "MTX Token is a community-driven utility/meme hybrid asset.",
+  "website": "https://apotepajaji-source.github.io/mtx-tokken-website/",
+  "explorer": "https://bscscan.com/token/0xa79525ad67723a3d74ee061316b3370ba00fe478",
+  "status": "active",
+  "id": "0xa79525ad67723a3d74ee061316b3370ba00fe478"
+}
